@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Abhishek_Port/static/css/main.15abc2d1.css",
-    "main.js": "/Abhishek_Port/static/js/main.5a3f9900.js",
+    "main.js": "/Abhishek_Port/static/js/main.a536b13e.js",
     "static/js/787.67b99310.chunk.js": "/Abhishek_Port/static/js/787.67b99310.chunk.js",
     "static/media/helvetica-neu.ttf": "/Abhishek_Port/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/Abhishek_Port/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Abhishek_Port/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Abhishek_Port/index.html",
     "main.15abc2d1.css.map": "/Abhishek_Port/static/css/main.15abc2d1.css.map",
-    "main.5a3f9900.js.map": "/Abhishek_Port/static/js/main.5a3f9900.js.map",
+    "main.a536b13e.js.map": "/Abhishek_Port/static/js/main.a536b13e.js.map",
     "787.67b99310.chunk.js.map": "/Abhishek_Port/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15abc2d1.css",
-    "static/js/main.5a3f9900.js"
+    "static/js/main.a536b13e.js"
   ]
 }
