@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Abhishek_Port/static/css/main.15abc2d1.css",
+    "main.js": "/Abhishek_Port/static/js/main.5a3f9900.js",
+    "static/js/787.67b99310.chunk.js": "/Abhishek_Port/static/js/787.67b99310.chunk.js",
+    "static/media/helvetica-neu.ttf": "/Abhishek_Port/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Abhishek_Port/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/Abhishek_Port/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/Abhishek_Port/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/logo-s.png": "/Abhishek_Port/static/media/logo-s.e501cb3f126e0f7c446c.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Abhishek_Port/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Abhishek_Port/index.html",
+    "main.15abc2d1.css.map": "/Abhishek_Port/static/css/main.15abc2d1.css.map",
+    "main.5a3f9900.js.map": "/Abhishek_Port/static/js/main.5a3f9900.js.map",
+    "787.67b99310.chunk.js.map": "/Abhishek_Port/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15abc2d1.css",
+    "static/js/main.5a3f9900.js"
+  ]
+}
